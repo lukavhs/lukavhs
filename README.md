@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malak!</h1>
 <h3 align="center">Dedicated Computer Science graduate with a strong foundation in artificial intelligence and machine learning. Passionate about developing intelligent systems that bridge research and real-world applications. Eager to pursue advanced studies and contribute to innovative projects that promote sustainable technology and data-driven problem solving.</h3>
 
-- 📫 How to reach me **www.linkedin.com/in/lukavhs**
+- 📫 How to reach me **malak02hisham@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1PgaUkXPKTRQWUrWnF5wwiHXs0DE26Oo5/view?usp=sharing)
 
